@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'master' }
+    agent { label 'master1111' }
 
     stages {
         stage('Pull Code') {
